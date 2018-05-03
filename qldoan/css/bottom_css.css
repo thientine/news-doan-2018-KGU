@@ -1,0 +1,48 @@
+
+.layout-dia-chi{
+	width: 980px;
+	height: 100px;
+	margin: auto;
+	margin-top: 10px;
+	background-color: lightpink;
+}
+.layout-ten-truong-1{
+	width: 270px;
+	height: 95px;
+	text-align: center;
+	float: left;
+	
+
+}
+.layout-ten-truong-1-1{
+	width: 8px;
+	height: 100px;	
+	float: left;
+	background-color: white;
+	
+
+}
+p.loai-chu {
+	font-weight: bold;
+	font-size: 24px;	
+	margin: -15px;
+}
+.loai-chu-1 {
+	font-weight: bold;
+	font-size: 24px;
+	
+}
+
+.layout-dia-chi-2 {
+	width: 480px;
+	height: 95px;
+	text-align: center;
+	float: left;
+	
+	}
+.layout-dia-chi-3{
+	width: 200px;
+	height: 95px;
+	text-align: center;
+	float: left;
+}

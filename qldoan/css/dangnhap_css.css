@@ -1,0 +1,141 @@
+a{
+	text-decoration: none;
+}
+.layout-khung{
+	background-color: lightgray;
+	width: 1000px;
+	height: 658px;	
+	margin: auto;
+	margin-top: -20px;
+	color: black;
+	padding: 10px;
+}
+.anh-bia{	
+	width: 1000px;
+	height:150px; 
+	position: relative;
+	padding-bottom: 20px;
+	
+}
+.kich-thuoc-ah{
+	width: 1000px;
+	height: 150px;
+	margin: auto;
+}
+
+.layout-center{
+	width: 500px;
+	height: 410px;	
+	margin: auto;
+	}
+.layout-1{
+	width: 490px;
+	height: 120px;
+	margin: auto;	
+
+}
+.vitri-layout-center{
+	margin: auto;
+}
+.hinh-avata{
+	margin: auto;	
+	width: 120px;
+	height: 120px;
+	border-radius: 100px 100px 100px 100px;
+	background-color: lightpink;
+}
+.layout-2{
+	width: 490px;
+	height: 47px;
+	margin: auto;
+	
+}
+.vitri-mau-chu{
+	width: 160px;
+	height: 45px;
+	margin: auto;
+}
+.layout-3{
+	width: 490px;
+	height: 180px;
+	margin: auto;
+	
+}
+.layout-us-pw{
+	width: 350px;
+	height: 47px;
+	margin: auto;
+	padding: 5px;
+}
+.kich-thuoc-chu{
+	font-size: 16px;
+	width: 340px;
+	height: 30px;
+	text-align: center;
+	vertical-align: middle;
+	background-color: lightgray;
+	
+}
+.kich-thuoc-chu-ok{
+	font-size: 20px;
+	width: 175px;
+	height: 45px;
+	background-color: lightblue;
+	font-weight: bold;
+}
+.layout-4{
+	width: 490px;
+	height: 47px;
+	margin: auto;
+	
+}
+.layout-dia-chi{
+	width: 980px;
+	height: 100px;
+	margin: auto;
+	margin-top: -20px;
+	background-color: #0099FF;
+}
+.layout-ten-truong-1{
+	width: 270px;
+	height: 95px;
+	text-align: center;
+	float: left;
+	
+
+}
+.layout-ten-truong-1-1{
+	width: 8px;
+	height: 100px;	
+	float: left;
+	background-color: white;
+	
+
+}
+p.loai-chu {
+	font-weight: bold;
+	font-size: 24px;	
+	margin: -5px;
+}
+.loai-chu-1 {
+	font-weight: bold;
+	font-size: 16px;
+	
+}
+
+.layout-dia-chi-2 {
+	width: 480px;
+	height: 95px;
+	text-align: center;
+	float: left;
+	
+	}
+.layout-dia-chi-3{
+	width: 200px;
+	height: 95px;
+	text-align: center;
+	float: left;
+}
+#ab{
+	ce
+}

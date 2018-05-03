@@ -1,0 +1,37 @@
+.table1 {
+	border: 1px solid black;
+	width: auto; height: auto; margin: auto
+	
+}
+.table1 tr{
+	height: 35px;
+}
+.table1 th{
+	text-align: left;
+	width: auto;
+	border: 1px solid black;
+}
+.table1 td{
+	width: 300px;
+	border: 1px solid black;
+}
+.table1 input{
+	width: 100%;
+	height: auto;
+	line-height: 30px;
+	font-size: 20px;
+}
+.nut{
+	width:70%; 
+	height: auto;
+	background-color: red; 
+	margin: auto;
+	}
+.nut input{
+	background-color: #99ffcc;
+	line-height: 30px;
+	font-size: 20px;
+	float: left; 
+	width: 30%;
+
+}
